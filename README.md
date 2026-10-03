@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="FontChekr: Every font you own, side by side." width="100%">
+</p>
+
 # FontChekr
 
-**Every font you own, side by side.** Browse the fonts on your Mac, sort them into collections, compare them side by side, explore every character and play with variable axes.
+**Every font you own, side by side.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+Browse the fonts on your Mac, sort them into collections, compare them side by side, explore every character and play with variable axes.
 
 Free, for any Mac, Apple silicon or Intel, macOS 15.2 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
